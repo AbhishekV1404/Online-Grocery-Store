@@ -1,0 +1,54 @@
+body {
+  background: rgb(70, 65, 65);
+  color: white;
+  margin: 0px;
+  padding: 0px;
+}
+header {
+  background: rgb(99, 93, 93);
+  padding: 20px;
+  background-image: url("/Project 3/Images/Header.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-bottom: 20px;
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+section.disc {
+  background: goldenrod;
+  color: black;
+  width: 1500px;
+  border-radius: 20px;
+  margin: auto;
+  padding: 1px;
+}
+
+p {
+  text-align: center;
+}
+section figure img {
+  height: 300px;
+  width: 300px;
+  border-radius: 200px;
+}
+section.items {
+  display: flex;
+  margin: auto;
+  text-align: center;
+  background: goldenrod;
+  margin-top: 20px;
+  border-radius: 20px;
+  color: black;
+  margin-bottom: 20px;
+}
+footer {
+  text-align: center;
+  background: black;
+  font-size: 12px;
+}
+h1 {
+  color: gold;
+}
